@@ -1,4 +1,4 @@
-name: Organization NodeJS Init CI starter workflow.
+name: Organization NodeJS CI
 
 on:
    branches: [ $default-branch ]
